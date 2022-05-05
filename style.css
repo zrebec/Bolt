@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --primary-background-color: rgb(193, 196, 219);
+  --primary-color: rgb(30, 29, 29);
+}
+
+body {
+  font-family: sans-serif;
+  font-size: 1rem;
+  background-color: var(--primary-background-color);
+  color: var(--primary-color);
+}

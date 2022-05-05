@@ -1,0 +1,24 @@
+{
+  "name": "bolt",
+  "version": "1.0.0",
+  "description": "Bolt is basic template (aka boilerplate) for faster project start. Contains basic structure of My HTML and CSS basic template.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zrebec/Bolt.git"
+  },
+  "keywords": [
+    "template",
+    "boilerplate",
+    "projectstart"
+  ],
+  "author": "Frisky Fox",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zrebec/Bolt/issues"
+  },
+  "homepage": "https://github.com/zrebec/Bolt#readme"
+}
